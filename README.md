@@ -1,4 +1,4 @@
-# PS-CS6-Colomn-Example
+# 12-Column-Grid-PS-CS6
 12-column grid system and text example for Photoshop CS6
 
 How to do it?

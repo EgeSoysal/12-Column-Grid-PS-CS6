@@ -12,7 +12,7 @@ How to do it?
 8) Click on the jsx file we made
 9) Now you have a 12 column grid, congratulations 🎉
 
-Text:
+```text
 
 // === Photoshop CS6 12 Column Grid (1440x1024) ===
 var doc = app.documents.add(1440, 1024, 72, "1440x1024_12col_Grid");
@@ -45,3 +45,4 @@ app.activeDocument.guides.add(Direction.HORIZONTAL, new UnitValue(0, "px"));
 app.activeDocument.guides.add(Direction.HORIZONTAL, new UnitValue(1024, "px"));
 
 alert("1440x1024 px, 12 colomn successfully created !");
+```
